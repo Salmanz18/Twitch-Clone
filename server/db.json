@@ -11,14 +11,13 @@
       "id": 3
     },
     {
-      "title": "I Created This Stream",
-      "description": "This was made by me!",
-      "userId": "105725832324281120761",
+      "title": "I Edited This Stream",
+      "description": "This was Refactored by me!",
       "id": 4
     },
     {
-      "title": "New Stream",
-      "description": "After Adding Programmatic Navigation",
+      "title": "New Refactored Stream",
+      "description": "After Adding Programmatic Navigation & Refactoring",
       "userId": "105725832324281120761",
       "id": 5
     },
